@@ -1,4 +1,4 @@
 int main(){
 	
-	printf("amit");
+	printf("ami");
 return 0;}
